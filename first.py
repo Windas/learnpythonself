@@ -1,2 +1,2 @@
 #coding=utf-8
-print("wenjifei youjichu!!!!");
+print "wenjifei youjichu!!!!"
